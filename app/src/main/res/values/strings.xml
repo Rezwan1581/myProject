@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Project01</string>
+    <string name="about">Creating an app for booking tickets</string>
+    <string name="dots">-----------------------------------------</string>
+    <string name="title_text">Alert Title</string>
+    <string name="message_text">Do you want to exit?</string>
+
+
+</resources>
